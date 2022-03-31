@@ -1,11 +1,14 @@
-import Komponen from "./Materi/Komponen";
+import { Component } from "react";
+import Bootstrap from "./Bootstrap";
 
-function App() {
-  return (
-    <div className="App">
-      <Komponen/>
-    </div>
-  );
+class App extends Component{
+  render(){
+    return(
+      <div className="App">
+        <Bootstrap/>
+      </div>
+    )
+  }
 }
 
 export default App;
