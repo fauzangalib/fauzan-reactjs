@@ -15,19 +15,19 @@ export default class Bio extends React.Component{
                 <div className="col-lg-4 col-md-4 col-sm-12">
                     <h6 className="fs-5">Kegiatan</h6>
                     <p className="fw-light"> 
-                        <a>Tinggi 164 Cm </a> <br />
-                        <a>Berat Badan 52 Kg </a> <br />
-                        <a>Wajah Bulat </a> <br />
+                        <h6>Tinggi 164 Cm </h6> <br />
+                        <h6>Berat Badan 52 Kg </h6> <br />
+                        <h6>Wajah Bulat </h6> <br />
                     </p>
                 </div>
                 <div className="col-lg-4 col-md-4 col-sm-12">
                     <h6 className="fs-5">Deskripsi</h6>
                     <p className="fw-light">
-                        <a>Tinggi 164 Cm </a> <br />
-                        <a>Berat Badan 52 Kg </a> <br />
-                        <a>Wajah Bulat </a> <br />
-                        <a>Rambut Lurus </a> <br />
-                        <a>Kulit Putih </a> <br />
+                        <h6>Tinggi 164 Cm </h6> <br />
+                        <h6>Berat Badan 52 Kg </h6> <br />
+                        <h6>Wajah Bulat </h6> <br />
+                        <h6>Rambut Lurus </h6> <br />
+                        <h6 >Kulit Putih </h6> <br />
                     </p>
                 </div>
                 <div className="col-lg-4 col-md-4 col-sm-12">

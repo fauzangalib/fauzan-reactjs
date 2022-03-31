@@ -7,10 +7,10 @@ export default class NavBar extends React.Component {
         return(
         <Navbar bg="dark" variant="dark">
             <Container>
-                <Navbar.Brand href="#home">Fauzan Galib</Navbar.Brand>
-                    <Nav className="me-auto">
-                    <Nav.Link href="#bio">Biografi</Nav.Link>
-                    <Nav.Link href="#contact">Contact</Nav.Link>
+                <Navbar.Brand href="/#home">Fauzan Galib</Navbar.Brand>
+                    <Nav className="/me-auto">
+                    <Nav.Link href="/#bio">Biografi</Nav.Link>
+                    <Nav.Link href="/#contact">Contact</Nav.Link>
                 </Nav>
             </Container>
         </Navbar>
