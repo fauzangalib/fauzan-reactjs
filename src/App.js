@@ -1,11 +1,11 @@
 import { Component } from "react";
-import Bootstrap from "./Bootstrap";
+import Form from "./FormRegistrasi";
 
 class App extends Component{
   render(){
     return(
       <div className="App">
-        <Bootstrap/>
+        <Form/>
       </div>
     )
   }
