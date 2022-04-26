@@ -1,11 +1,11 @@
 import { Component } from "react";
-import Form from "./FormRegistrasi";
+import Routing from "./Component";
 
 class App extends Component{
   render(){
     return(
       <div className="App">
-        <Form/>
+        <Routing/>
       </div>
     )
   }
